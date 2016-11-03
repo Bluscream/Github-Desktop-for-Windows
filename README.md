@@ -1,4 +1,4 @@
-# [Github-Desktop](https://github.com/Bluscream/Github-Desktop)
+# [Github Desktop for Windows](https://github.com/Bluscream/Github-Desktop)
 Collection of issues, feature requests and Tutorials for Github Desktop for Windows
 
 Official Website: https://desktop.github.com
